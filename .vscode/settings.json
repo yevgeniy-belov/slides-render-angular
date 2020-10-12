@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "Appinsights",
+        "randomatic",
+        "woff"
+    ],
+    "emmet.includeLanguages": {
+        "typescript": "html",
+        "javascript": "javascriptreact"
+    },
+    "html.customData": [
+        "./html.html-data.json"
+    ],
+}

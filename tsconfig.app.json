@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "paths": {
+      "@angular/*": [
+        "./node_modules/@angular/*"
+      ]
+    }
+  },
+  "include": [
+    "../../components/components.module.ts",
+    "src/main.ts",
+    "src/polyfills.ts",
+    "src/**/*.ts"
+  ]
+}

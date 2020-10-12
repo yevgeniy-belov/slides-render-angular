@@ -1,0 +1,12 @@
+{
+    "verbose": false,
+    "restartable": "rs",
+    "ignore": [],
+    "watch": [
+        "src/mockups",
+        "src/tasks",
+        "server.js"
+    ],
+    "execMap": {},
+    "ext": "js, ts, html"
+}
