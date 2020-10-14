@@ -1,0 +1,22 @@
+[
+    {
+        "label": "SLA Warnings",
+        "unread": "10+",
+        "value": 15
+    },
+    {
+        "label": "Anomalies",
+        "unread": "10+",
+        "value": 11
+    },
+    {
+        "label": "LG Alerts",
+        "unread": "10+",
+        "value": 50
+    },
+    {
+        "label": "Errors",
+        "unread": "10+",
+        "value": 15000
+    }
+]

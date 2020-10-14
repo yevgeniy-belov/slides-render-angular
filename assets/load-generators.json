@@ -1,0 +1,56 @@
+[
+	{
+		"name": "My lg 21",
+		"checked": true,
+		"version": "2020.07",
+		"installed": "2/07/2020",
+		"shared": 1,
+		"status": "connected",
+		"os": "Windows"
+	},
+	{
+		"name": "My lg 22",
+		"checked": false,
+		"version": "2020.07",
+		"installed": "2/07/2020",
+		"shared": 5,
+		"status": "disconnected",
+		"os": "Windows"
+	},
+	{
+		"name": "My lg 23",
+		"checked": false,
+		"version": "2020.07",
+		"installed": "2/07/2020",
+		"shared": 8,
+		"status": "disconnected",
+		"os": "Windows"
+	},
+	{
+		"name": "My lg 24",
+		"checked": false,
+		"version": "2020.07",
+		"installed": "2/07/2020",
+		"shared": 8,
+		"status": "disconnected",
+		"os": "Windows"
+	},
+	{
+		"name": "My lg 25",
+		"checked": true,
+		"version": "2020.07",
+		"installed": "2/07/2020",
+		"shared": 8,
+		"status": "connected",
+		"os": "Windows"
+	},
+	{
+		"name": "My_lg_2",
+		"checked": false,
+		"version": "2020.01",
+		"installed": "12/1/2020",
+		"shared": 3,
+		"status": "updating",
+		"os": "Windows"
+	}
+]

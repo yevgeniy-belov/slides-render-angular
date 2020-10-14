@@ -1,0 +1,564 @@
+{
+    "options": {
+        "rowHeight": 30,
+        "hover": true,
+        "showRowBorder": true,
+        "showHeader": true,
+        "indentation": 24
+    },
+    "columns": [{
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "Metrics",
+            "show": true,
+            "width": "auto"
+        },
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        }
+    ],
+    "rows": [
+
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-vuser"
+                },
+                {
+                    "template": "text",
+                    "content": "vusers count"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-connection"
+                },
+                {
+                    "template": "text",
+                    "content": "connections"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-error"
+                },
+                {
+                    "template": "text",
+                    "content": "error count"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-error"
+                },
+                {
+                    "template": "text",
+                    "content": "hits"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-throughput"
+                },
+                {
+                    "template": "text",
+                    "content": "throughput"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "*border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-percentile"
+                },
+                {
+                    "template": "text",
+                    "content": "percentile 90"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "*border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-aggregation"
+                },
+                {
+                    "template": "text",
+                    "content": "average trt"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "*border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-aggregation"
+                },
+                {
+                    "template": "text",
+                    "content": "max trt"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "*border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-aggregation"
+                },
+                {
+                    "template": "text",
+                    "content": "min trt"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "*border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction-failed"
+                },
+                {
+                    "template": "text",
+                    "content": "failed transactions"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "*border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction-passed"
+                },
+                {
+                    "template": "text",
+                    "content": "passed transactions"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "*border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-right icon-size--8 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-sla"
+                },
+                {
+                    "template": "text",
+                    "content": "sla breakers"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-cpu"
+                },
+                {
+                    "template": "text",
+                    "content": "cpu utilization"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-disk"
+                },
+                {
+                    "template": "text",
+                    "content": "disk utilization"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-memory"
+                },
+                {
+                    "template": "text",
+                    "content": "used memory"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-disk"
+                },
+                {
+                    "template": "text",
+                    "content": "free disk space"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-memory"
+                },
+                {
+                    "template": "text",
+                    "content": "free memory"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-network"
+                },
+                {
+                    "template": "text",
+                    "content": "network readwrite"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        }
+
+    ]
+
+}

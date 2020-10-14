@@ -1,0 +1,690 @@
+{
+    "options": {
+        "rowHeight": 30,
+        "hover": true,
+        "showRowBorder": true,
+        "showHeader": true,
+        "indentation": 24
+    },
+    "columns": [{
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "Metric",
+            "show": true,
+            "width": "auto"
+        },
+        {
+            "name": "BREAK",
+            "show": true,
+            "width": 80
+        },
+        {
+            "name": "ANOMALY",
+            "show": true,
+            "width": 80
+        },
+        {
+            "name": "Scale",
+            "show": true,
+            "width": 80
+        },
+        {
+            "name": "CHART",
+            "show": true,
+            "width": 200
+        }
+    ],
+    "rows": [{
+            "indentation": "0",
+            "cells": [{
+                    "template": "actions",
+                    "active": true,
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-down icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-vuser"
+                },
+                {
+                    "template": "text",
+                    "content": "Vusers"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+
+        {
+            "indentation": "1",
+            "cells": [{
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-script-web"
+                },
+                {
+                    "template": "text",
+                    "content": "My_script_1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "1",
+            "cells": [{
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-down icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-script-dev-web"
+                },
+                {
+                    "template": "text",
+                    "content": "My_script_2"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "2",
+            "cells": [{
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-down icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-location"
+                },
+                {
+                    "template": "text",
+                    "content": "London"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": "------^^------------^-------^^-------"
+                }
+            ]
+        },
+        {
+            "indentation": "3",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "icon-show btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-wifi"
+                },
+                {
+                    "template": "text",
+                    "content": "Wi-Fi"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": "---------------------------------------"
+                }
+            ]
+        },
+        {
+            "indentation": "3",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "icon-show btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-wan-good"
+                },
+                {
+                    "template": "text",
+                    "content": "Wan-Good"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": "-^^^^-^^^--^^^^^^^--^-------^^--^^^--"
+                }
+            ]
+        },
+        {
+            "indentation": "3",
+            "cells": [{
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "icon-show btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-mobile-busy"
+                },
+                {
+                    "template": "text",
+                    "content": "Mobile-Busy"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+
+
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": ""
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-vuser-failed"
+                },
+                {
+                    "template": "text",
+                    "content": "Failed Vusers"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-hits-per-sec"
+                },
+                {
+                    "template": "text",
+                    "content": "Hits per second"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-throughput"
+                },
+                {
+                    "template": "text",
+                    "content": "Throughput"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-error"
+                },
+                {
+                    "template": "text",
+                    "content": "Errors"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-error"
+                },
+                {
+                    "template": "text",
+                    "content": "Errors per second"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-connection"
+                },
+                {
+                    "template": "text",
+                    "content": "Connections"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Transactions"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": " btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-custom-metric"
+                },
+                {
+                    "template": "text",
+                    "content": "User data points"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-right icon-size--8 btn btn--xxs btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-monitor"
+                },
+                {
+                    "template": "text",
+                    "content": "Monitors"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                },
+                {
+                    "template": "text",
+                    "content": "1"
+                },
+                {
+                    "template": "text",
+                    "content": ""
+                }
+            ]
+        }
+    ]
+
+}

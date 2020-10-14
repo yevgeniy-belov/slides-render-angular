@@ -1,0 +1,105 @@
+{
+    "options": {
+        "rowHeight": 30,
+        "hover": true,
+        "showRowBorder": true,
+        "showHeader": true,
+        "indentation": 24
+    },
+    "columns": [{
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "Emulation",
+            "show": true,
+            "width": "auto"
+        },
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        }
+    ],
+    "rows": [
+
+        {
+            "indentation": "0",
+            "cells": [{
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "*icon-check icon-size--10 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-location-as-is"
+                },
+                {
+                    "template": "text",
+                    "content": "No Emulation"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [{
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "icon-check icon-size--10 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-mobile-busy"
+                },
+                {
+                    "template": "text",
+                    "content": "Mobile_Busy"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [{
+                    "template": "actions",
+                    "classes": "border--r",
+                    "content": "icon-check icon-size--10 btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-wan-good"
+                },
+                {
+                    "template": "text",
+                    "content": "WAN_Good"
+                },
+                {
+                    "template": "actionsEnd",
+                    "name": "more button",
+                    "content": "on-hover-show__item btn btn--integrated icon-more-vertical icon-size--12"
+                }
+            ]
+        }
+
+    ]
+
+}

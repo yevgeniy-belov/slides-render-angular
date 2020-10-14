@@ -1,0 +1,70 @@
+[
+    
+    {
+        "archived": false,
+        "id": 1,
+        "message": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!",
+        "seen": false,
+        "status": {
+            "name": "ERROR",
+            "partial": false,
+            "label": "",
+            "icon": ""
+        },
+        "subjectIcon": "icon-error icon-color-error",
+        "learnMore": true,
+        "tags": "new",
+        "time": "6/3/2020 - 00:00:00",
+        "title": "License expired"
+    },
+   
+    {
+        "archived": false,
+        "id": 1,
+        "message": "LRC service will be unavailable From Friday, July 17, 2020 04:00 am GMT to Friday, July 17, 2020 02:00 pm GMT",
+        "seen": true,
+        "status": {
+            "name": "INFO",
+            "partial": false,
+            "label": "",
+            "icon": ""
+        },
+        "subjectIcon": "icon-disc-info icon-color-info",
+        "tags": "new",
+        "time": "6/3/2020 - 00:00:00",
+        "title": "Plained Maintenance"
+    },
+    {
+        "archived": false,
+        "id": 1,
+        "message": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus placeat quod deleniti quos a non harum ratione reprehenderit libero maiores!",
+        "seen": true,
+        "status": {
+            "name": "MESSAGE",
+            "partial": false,
+            "label": "",
+            "icon": ""
+        },
+        "subjectIcon": "icon-comment",
+        "tags": "new",
+        "time": "6/3/2020 - 00:00:00",
+        "title": "Message from OC"
+    },
+    {
+        "archived": false,
+        "learnMore": true,
+        "id": 1,
+        "message": "License expiration",
+        "seen": true,
+        "status": {
+            "name": "WARNING",
+            "partial": false,
+            "label": "",
+            "icon": ""
+        },
+        "subjectIcon": "icon-alert",
+        "tags": "new",
+        "time": "3/20/2028 - 00:00:00",
+        "title": "License expiration"
+    }
+]

@@ -1,0 +1,921 @@
+{
+    "options": {
+        "rowHeight": 30,
+        "hover": true,
+        "showRowBorder": true,
+        "showHeader": true,
+        "indentation": 24
+    },
+    "columns": [
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "",
+            "show": true,
+            "width": 24
+        },
+        {
+            "name": "Transaction",
+            "show": true,
+            "width": "auto"
+        }
+    ],
+    "rows": [
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_creature"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_duty"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_simply"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_good"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_brave"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_parent"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_unusual"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_shape"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_she"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_instant"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_another"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_steel"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_eleven"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_ran"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_son"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_tin"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_minerals"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_bite"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_factor"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_asleep"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_sit"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_give"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_finally"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_lion"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_deal"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_flower"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_race"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_escape"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_harbor"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_shinning"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_gain"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_herd"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_cover"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_gate"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_able"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_hidden"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_wonderful"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_jet"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_ability"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_golden"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_take"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_couple"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_not"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_if"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_blood"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_tide"
+                }
+            ]
+        },
+        {
+            "indentation": "0",
+            "cells": [
+                {
+                    "template": "actions",
+                    "classes": "",
+                    "content": "*icon-show btn btn--integrated"
+                },
+                {
+                    "template": "icon",
+                    "iconColor": "",
+                    "content": "icon-transaction"
+                },
+                {
+                    "template": "text",
+                    "content": "Tr_library"
+                }
+            ]
+        }
+    ]
+}
