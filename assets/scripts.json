@@ -1,5 +1,5 @@
 [{
-        "name": "New Load Test",
+        "name": "Script_1",
         "modified": "7/10/2016",
         "author": "Devin Simon",
         "type": "dev-web",
@@ -7,7 +7,7 @@
         "labels": ["swing", "western", "concerned"]
     },
     {
-        "name": "Stephen_Test_simply",
+        "name": "Script_2",
         "modified": "12/4/2016",
         "author": "Timothy Lamb",
         "type": "truapi",
@@ -16,167 +16,6 @@
             {
                 "name": "Oded",
                 "color": "black"
-            }
-        ]
-
-    },
-    {
-        "name": "Vincent_Test_driver",
-        "modified": "11/3/2015",
-        "author": "Bobby Romero",
-        "type": "truclient",
-        "usage": 32,
-        "labels": [
-            {
-                "name": "Rick",
-                "color": "blue"
-            },
-            {
-                "name": "&",
-                "color": "gray"
-            },
-            {
-                "name": "Morty",
-                "color": "red"
-            }
-        ]
-    },
-    {
-        "name": "Tommy_Test_cup",
-        "modified": "12/28/2016",
-        "author": "Mittie Mendoza",
-        "type": "web",
-        "usage": 41,
-        "labels": [
-            {
-                "name": "Peer",
-                "color": "black"
-            },
-            {
-                "name": "Oleg",
-                "color": ""
-            },
-            {
-                "name": "Yuval",
-                "color": "orange"
-            }
-        ]
-    },
-    {
-        "name": "Beatrice_Test_select",
-        "modified": "4/30/2018",
-        "author": "Julian Gibbs",
-        "type": "web",
-        "usage": 13,
-        "labels": [
-            {
-                "name": "new",
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "name": "Joe_Test_smallest",
-        "modified": "1/12/2019",
-        "author": "Ollie Hunt",
-        "type": "web",
-        "usage": 17
-    },
-    {
-        "name": "Hulda_Test_layers",
-        "modified": "1/29/2015",
-        "author": "Sadie Dunn",
-        "type": "web",
-        "usage": 32
-    },
-    {
-        "name": "Calvin_Test_cookies",
-        "modified": "12/27/2017",
-        "author": "Alfred Johnson",
-        "type": "tc-mobile-web",
-        "usage": 35
-    },
-    {
-        "name": "Albert_Test_deep",
-        "modified": "5/28/2018",
-        "author": "Josephine Horton",
-        "type": "tc-mobile-web",
-        "usage": 44,
-        "labels": [
-            {
-                "name": "Nir Hemed",
-                "color": "blue"
-            }
-        ]
-    },
-    {
-        "name": "Marguerite_Test_bet",
-        "modified": "4/25/2019",
-        "author": "Jerome Soto",
-        "type": "tc-mobile-web",
-        "usage": 23,
-        "labels": [
-            {
-                "name": "new",
-                "color": "blue"
-            },
-            {
-                "name": "v.1.0.0",
-                "color": "gray"
-            },
-            {
-                "name": "for mockups",
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "name": "Estella_Test_missing",
-        "modified": "6/26/2015",
-        "author": "Hettie Reynolds",
-        "type": "truapi",
-        "usage": 44,
-        "labels": [
-            {
-                "name": "Shachar",
-                "color": "red"
-            },
-            {
-                "name": "Goldstein",
-                "color": "gray"
-            },
-            {
-                "name": "0.1.0",
-                "color": "purple"
-            }
-        ]
-    },
-    {
-        "name": "Emily_Test_roof",
-        "modified": "10/11/2019",
-        "author": "Jane Pena",
-        "type": "gatling",
-        "usage": 11,
-        "labels": [
-            {
-                "name": "Nadler",
-                "color": "blue"
-            },
-            {
-                "name": "0.0.0",
-                "color": "Ofer"
-            },
-            {
-                "name": "Aviad",
-                "color": "purple"
-            },
-            {
-                "name": "Firas",
-                "color": "gray"
-            },
-            {
-                "name": "Ilan",
-                "color": "green"
             }
         ]
     }
