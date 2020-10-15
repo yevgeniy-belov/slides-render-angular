@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 import { SlidesModule } from './slides/slides.module';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { WelcomeComponent } from './welcome/welcome.component';
 
 @NgModule({
 	imports: [
@@ -16,6 +17,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 	],
 	declarations: [
 		AppComponent,
+		WelcomeComponent,
 	],
 	entryComponents: [],
 	exports: [
