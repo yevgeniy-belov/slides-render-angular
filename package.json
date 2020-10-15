@@ -15,7 +15,7 @@
   "scripts": {
     "ng": "ng",
     "start": "cross-var ng serve --port $ANGULAR_PORT",
-    "deploy": "cross-var ng deploy --base-href=$BASE_HREF_RENDER --repo=$DEPLOY_REPO --no-silent",
+    "deployRender": "cross-var ng deploy --base-href=$BASE_HREF_RENDER --repo=$GH_REPOSITORY_RENDER --no-silent",
     "slides": "node src/tasks/snapshots-server.js",
     "build": "ng build",
     "test": "ng test",
