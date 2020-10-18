@@ -6,6 +6,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { SlidesModule } from './slides/slides.module';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { WelcomeComponent } from './welcome/welcome.component';
+import { HotkeyModule } from 'angular2-hotkeys';
 
 @NgModule({
 	imports: [
@@ -13,6 +14,7 @@ import { WelcomeComponent } from './welcome/welcome.component';
 		AppRoutingModule,
 		SlidesModule,
 		HttpClientModule,
+		HotkeyModule.forRoot(),
 		NgbModule,
 	],
 	declarations: [
