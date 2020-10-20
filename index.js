@@ -18,7 +18,7 @@ module.exports = {
     run: function ( options ) {
         process.env['ANGULAR_PORT'] = options.ANGULAR_PORT;
         npm.load( () => {
-            npm.run( 'startBlueberryRender' );
+            npm.run( 'startRender' );
         } );
     },
 
