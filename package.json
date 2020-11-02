@@ -24,7 +24,7 @@
 		"e2e": "ng e2e"
 	},
 	"private": false,
-	"dependencies": {
+	"devDependencies": {
 		"@angular-builders/custom-webpack": "^10.0.1",
 		"@angular-devkit/build-angular": "^0.1000.7",
 		"@angular/animations": "^10.0.12",
@@ -47,6 +47,7 @@
 		"@types/node": "^12.12.31",
 		"codelyzer": "^6.0.0",
 		"core-js": "^2.6.11",
+		"cssberries-angular2-hotkeys": "^2.2.2",
 		"dygraphs": "^2.1.0",
 		"jasmine-core": "~3.5.0",
 		"jasmine-spec-reporter": "~5.0.0",
@@ -66,9 +67,7 @@
 		"typescript": "~3.9.7",
 		"update": "^0.7.4",
 		"uuid": "^3.4.0",
-		"zone.js": "^0.10.3"
-	},
-	"devDependencies": {
+		"zone.js": "^0.10.3",
 		"npm": "^6.14.8"
 	}
 }
