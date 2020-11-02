@@ -10,4 +10,4 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 	declarations: [
 	]
 })
-export class UiComponentsModule {}
+export class UiComponentsModule { }

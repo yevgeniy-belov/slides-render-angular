@@ -4,7 +4,6 @@ import { SlidesList } from './slides-list.module';
 import { SlidesListMap } from './slides-list.module';
 import { SlidesComponent } from './slides.component';
 import { RouterModule } from '@angular/router';
-import { TreeModule } from 'angular-tree-component';
 import { UiComponentsModule } from '../shared/ui-components/ui-components.module';
 import { FormsModule } from '@angular/forms';
 import { ClickOutsideModule } from 'ng-click-outside';
@@ -20,12 +19,11 @@ import { ComponentsModule } from '../../../../../components/components.module';
         SlidesComponent,
     ],
     imports: [
+        CommonModule,
         FormsModule,
         UiComponentsModule,
-        CommonModule,
         RouterModule,
         SlidesRoutingModule,
-        TreeModule.forRoot(),
         ClickOutsideModule,
         DragDropModule,
         ComponentsModule,
