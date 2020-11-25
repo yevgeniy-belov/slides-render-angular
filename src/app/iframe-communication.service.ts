@@ -23,5 +23,8 @@ export class IframeCommunicationService {
 		if (event.data.type === 'navigation') {
 			this.router.navigate([event.data.route], {});
 		}
+		if (event.data.type === 'theme') {
+			document.firstElementChild.setAttribute('class', event.data.theme);
+		}
 	}
 }

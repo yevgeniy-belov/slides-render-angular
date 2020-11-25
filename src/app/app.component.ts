@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, HostListener } from '@angular/core';
 import { IframeCommunicationService } from './iframe-communication.service';
 // import { HotkeysService, Hotkey } from 'angular2-hotkeys';
 
@@ -7,6 +7,9 @@ import { IframeCommunicationService } from './iframe-communication.service';
 	templateUrl: './app.component.html',
 })
 export class AppComponent {
+	@HostListener('document:keydown.shift.f') toggleFullscreen(event: KeyboardEvent) {
+		window.top.postMessage('shift+f', '*');
+	}
 	constructor(
 		private iframeSvc: IframeCommunicationService,
 		// private _hotkeysService: HotkeysService
