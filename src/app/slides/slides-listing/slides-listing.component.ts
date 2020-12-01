@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router, Event, NavigationEnd } from '@angular/router';
-import tree from '../../../../../../tree.json';
+import tree from '../../../../../../../persistency/tree.json';
 import { Location } from '@angular/common';
 
 @Component({

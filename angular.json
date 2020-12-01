@@ -39,12 +39,12 @@
 							"src/assets",
 							{
 								"glob": "**/*",
-								"input": "../../data",
+								"input": "../../../render/data",
 								"output": "./assets"
 							}
 						],
 						"styles": [
-							"../../styles/styles.less",
+							"../../../render/styles/styles.less",
 							"src/styles.scss",
 							"src/styles.less"
 						],
