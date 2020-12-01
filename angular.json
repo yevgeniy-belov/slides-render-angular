@@ -45,6 +45,7 @@
 						],
 						"styles": [
 							"../../../render/styles/styles.less",
+							"../../../render/styles/styles.scss",
 							"src/styles.scss",
 							"src/styles.less"
 						],
