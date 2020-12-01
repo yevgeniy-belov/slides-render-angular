@@ -1,6 +1,6 @@
 {
 	"name": "slides-render-angular",
-	"version": "6.0.0",
+	"version": "6.1.0",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
