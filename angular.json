@@ -51,7 +51,7 @@
 						],
 						"scripts": [],
 						"customWebpackConfig": {
-							"path": "webpack.config.js"
+							"path": "../../webpack.config.js"
 						}
 					},
 					"configurations": {
@@ -113,7 +113,7 @@
 						"styles": ["src/styles.less"],
 						"scripts": [],
 						"customWebpackConfig": {
-							"path": "webpack.config.js"
+							"path": "../../webpack.config.js"
 						}
 					}
 				},
