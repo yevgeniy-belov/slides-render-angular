@@ -1,0 +1,50 @@
+[
+    {
+        "name": "N.Virginia (Azure)",
+        "ipAddress": "238.121.186.229",
+        "vendor": "AWS",
+        "status": "In Use",
+        "expiration": "05/08/2021",
+        "usage": "2/4"
+    },
+    {
+        "name": "N.Virginia (AWS)",
+        "ipAddress": "6.229.88.250",
+        "vendor": "AWS",
+        "status": "In Use",
+        "expiration": "05/08/2021",
+        "usage": "2/4"
+    },
+    {
+        "name": "Oregon",
+        "ipAddress": "77.208.38.178",
+        "vendor": "AWS",
+        "status": "In Use",
+        "expiration": "05/08/2021",
+        "usage": "2/4"
+    },
+    {
+        "name": "Oregon",
+        "ipAddress": "47.22.28.115",
+        "vendor": "AWS",
+        "status": "In Use",
+        "expiration": "05/08/2021",
+        "usage": "2/4"
+    },
+    {
+        "name": "Oregon",
+        "ipAddress": "170.241.225.4",
+        "vendor": "AWS",
+        "status": "In Use",
+        "expiration": "05/08/2021",
+        "usage": "2/4"
+    },
+    {
+        "name": "Ohio",
+        "ipAddress": "198.100.187.23",
+        "vendor": "AWS",
+        "status": "In Use",
+        "expiration": "05/08/2021",
+        "usage": "2/4"
+    }
+]
