@@ -45,9 +45,7 @@
 						],
 						"styles": [
 							"../../../render/styles/styles.less",
-							"../../../render/styles/styles.scss",
-							"src/styles.scss",
-							"src/styles.less"
+							"../../../render/styles/styles.scss"
 						],
 						"scripts": [],
 						"customWebpackConfig": {
@@ -109,8 +107,11 @@
 						"polyfills": "src/polyfills.ts",
 						"tsConfig": "tsconfig.spec.json",
 						"karmaConfig": "karma.conf.js",
-						"assets": ["src/favicon.png", "src/assets"],
-						"styles": ["src/styles.less"],
+						"assets": [
+							"src/favicon.png",
+							"src/assets"
+						],
+						"styles": [],
 						"scripts": [],
 						"customWebpackConfig": {
 							"path": "../../webpack.config.js"
@@ -125,7 +126,9 @@
 							"tsconfig.spec.json",
 							"e2e/tsconfig.json"
 						],
-						"exclude": ["**/node_modules/**"]
+						"exclude": [
+							"**/node_modules/**"
+						]
 					}
 				},
 				"e2e": {
