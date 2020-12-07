@@ -13,6 +13,13 @@ export class IframeCommunicationService {
 			this.handleIframeEventListener.bind(this)
 		);
 	}
+	private isDarkTheme(themeName) {
+		let is = false;
+		if (themeName.includes('dark')) {
+			is = true;
+		}
+		return is;
+	}
 
 	private handleIframeEventListener(event) {
 
@@ -24,7 +31,16 @@ export class IframeCommunicationService {
 			this.router.navigate([event.data.route], {});
 		}
 		if (event.data.type === 'theme') {
-			document.firstElementChild.setAttribute('class', event.data.theme);
+			let classes: string;
+			classes = event.data.theme;
+			if (this.isDarkTheme(classes)) {
+				classes = classes + ' dark';
+			}
+
+			classes = `${classes} `;
+			event.data.theme
+			document.firstElementChild.setAttribute('class', classes);
 		}
+
 	}
 }
